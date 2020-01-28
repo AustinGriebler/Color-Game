@@ -14,7 +14,7 @@ init();
 
 function init(){
 	setupModeButtons();
-	setupSqaures();
+	setupSquares();
 	reset();
 }
 
